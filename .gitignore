@@ -1,0 +1,25 @@
+# Local environment and secrets
+.env
+lt_env/
+venv/
+.venv/
+
+# Generated data, datasets, and run outputs
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Excel lock files
+.~*.xlsx
+~$*.xlsx
